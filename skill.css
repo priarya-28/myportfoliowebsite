@@ -1,0 +1,17 @@
+
+body {
+    /* overflow-x: hidden;
+    margin: 0%; */
+    background: #755d5d;
+  }
+ #gridForCards{
+                  margin-top:10%;
+                  
+  }
+
+  .card{
+    
+    border: 5px solid rgb(88, 88, 238);
+    
+  }
+  
